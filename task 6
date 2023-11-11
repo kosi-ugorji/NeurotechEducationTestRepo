@@ -1,0 +1,4 @@
+git checkout main
+git merge branch-task-5
+git add .
+git commit -m "Merge branch 'branch-task-5' into main"
