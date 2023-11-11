@@ -1,0 +1,6 @@
+git checkout main
+git add .
+git commit -m "make change on main branch"
+git checkout branch-task-5
+git add .
+git commit -m "make conflicting change on new branch"
